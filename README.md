@@ -17,4 +17,4 @@ This dashboard analyzes key metrics for the hospitality industry, such as:
 
 ## 🖼️ Dashboard Preview
 
-(Tip: Add a screenshot of your dashboard here! You can upload a .png or .jpg file just like you did with your .pbix file, then get its link to display it.)
+
